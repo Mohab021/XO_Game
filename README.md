@@ -8,8 +8,12 @@ Tic-tac-toe is a game for two players who take turns marking the spaces in a thr
 ### Executing program
 Run the program using any IDE supports C language.
 
+## Screen Shots
+![Image_01](assets/Scr_01.png?raw=true)
+![Image_02](assets/Scr_02.png?raw=true)
+
 ## Authors
-@https://github.com/Mohab021
+@[Mohab021](https://github.com/Mohab021)
 
 ## Version History
 - 0.1
